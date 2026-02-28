@@ -2,7 +2,7 @@
  * @file main.c
  * @author Nguyễn Quang Minh mssv:20234024
  * @brief
- * Lập trình thuật toán mã hoá Playfair, chỉ sử dụng các hàm cơ bản trong thư viện chuẩn của C/C++.
+ * Lập trình thuật toán mã hoá Playfair
  * Input: Bản rõ 
  * Key: Tự định nghĩa 
  * Output: Bản mã 
